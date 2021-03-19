@@ -20,7 +20,7 @@ Everything works fine, but audio is handeled with voodooHDA because AppleALC cau
 
 ## Instalation
 
-Download this repo. Generate SMBIOS data with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and set it in config.plit. Then copy to your EFI partition and that's it.
+Download this repo. Generate SMBIOS data with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and set it in config.plist. Then copy to your EFI partition and that's it.
 
 ## What to expect
 
