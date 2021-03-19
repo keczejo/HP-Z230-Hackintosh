@@ -1,6 +1,6 @@
 # HP Z230 Hackintosh
 
-### This repo contrains ready to use EFI to run macOS Big Sur on HP Z230 Workstation
+### This repo contains ready to use EFI to run macOS Big Sur on HP Z230 Workstation
 
 EFI folder should work on other macOS versions, but it was only tested with Big Sur
 
