@@ -20,7 +20,7 @@ Everything works fine, but audio is handeled with voodooHDA because AppleALC cau
 
 ## Instalation
 
-Download this repo. Set serial number then copy to your EFI partition and that's it.
+Download this repo. Generate SMBIOS data with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and set it in config.plit. Then copy to your EFI partition and that's it.
 
 ## What to expect
 
@@ -37,7 +37,7 @@ There are two ways you can install Big Sur:
 
 2. If you are using Windows, use [macrecovery.py](https://github.com/acidanthera/OpenCorePkg/tree/master/Utilities/macrecovery) from the offical [OpenCore release package](https://github.com/acidanthera/OpenCorePkg/releases/). Follow this [guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html) to understand how it works.
 
-After you have created a bootable Installer, copy the EFI folder to the EFI partition and set serial number. Then install as usual. After the installation, mount the EFI partition of the installed OS and copy the EFI folder to its partition.
+After you have created a bootable Installer, copy the EFI folder to the EFI partition and set SMBIOS data generated with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS). Then install as usual. After the installation, mount the EFI partition of the installed OS and copy the EFI folder to its partition.
 
 ## Screenshot
 
