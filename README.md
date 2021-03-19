@@ -8,7 +8,7 @@ EFI folder should work on other macOS versions, but it was only tested with Big 
 
 Model | HP Z230 SFF Workstation
 ------------- | ---------------
-CPU | Intel Core i3-4159
+CPU | Intel Core i3-4150
 GPU | Intel HD Graphics 4400
 RAM | 8GB DDR3 1333Mhz
 Storage | Kingston SSDnow V300 120GB
