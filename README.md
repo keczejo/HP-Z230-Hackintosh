@@ -24,10 +24,9 @@ Download this repo. Generate SMBIOS data with [GenSMBIOS](https://github.com/cor
 
 ## What to expect
 
-- Works really good
-- Works stable
-- sleep works
-- DP audio works
+- Stable and reliable system
+- working sleep
+- fully working sound including DP 
 
 ## How to Install macOS Big Sur
 
